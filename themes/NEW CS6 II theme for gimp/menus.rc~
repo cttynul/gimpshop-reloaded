@@ -1,0 +1,67 @@
+#technix menu and menubar settings
+#Modified and added to by Padster
+#GIMPshop Reloaded custom setting
+
+style "menubar"{
+
+fg[PRELIGHT] = "#f5f5f5" #pressed
+fg[ACTIVE] = "#f5f5f5" #normal
+fg[NORMAL] = "#f5f5f5" #normal
+fg[SELECTED] = "#f5f5f5" #pressed
+fg[INSENSITIVE] = "#b6b6b6" #insensitive
+
+text[PRELIGHT] = "#f5f5f5" #prelight text on optionmenu menus #pressed 
+text[ACTIVE] = "#f5f5f5" #normal
+text[NORMAL] = "#f5f5f5" #normal
+text[SELECTED] = "#f5f5f5" #pressed
+text[INSENSITIVE] = "#b6b6b6" #insensitive
+
+}
+
+style "menu"{
+
+fg[PRELIGHT] = "#f5f5f5" #pressed
+fg[ACTIVE] = "#f5f5f5" #normal
+fg[NORMAL] = "#f5f5f5" #normal
+fg[SELECTED] = "#f5f5f5" #pressed
+fg[INSENSITIVE] = "#b6b6b6" #insensitive
+
+text[PRELIGHT] = "#f5f5f5" #prelight text on optionmenu menus #pressed 
+text[ACTIVE] = "#f5f5f5" #normal
+text[NORMAL] = "#f5f5f5" #normal
+text[SELECTED] = "#f5f5f5" #pressed
+text[INSENSITIVE] = "#b6b6b6" #insensitive
+
+}
+
+style "menuitem"{
+
+fg[PRELIGHT] = "#f5f5f5" #pressed
+fg[ACTIVE] = "#f5f5f5" #normal
+fg[NORMAL] = "#f5f5f5" #normal
+fg[SELECTED] = "#f5f5f5" #pressed
+fg[INSENSITIVE] = "#b6b6b6" #insensitive
+
+text[PRELIGHT] = "#f5f5f5" #prelight text on optionmenu menus #pressed 
+text[ACTIVE] = "#f5f5f5" #normal
+text[NORMAL] = "#f5f5f5" #normal
+text[SELECTED] = "#f5f5f5" #pressed
+text[INSENSITIVE] = "#b6b6b6" #insensitive
+
+}
+
+style "menuitem-text" = "menuitem"{
+
+fg[PRELIGHT] = "#f5f5f5" #pressed
+fg[ACTIVE] = "#f5f5f5" #normal
+fg[NORMAL] = "#f5f5f5" #normal
+fg[SELECTED] = "#f5f5f5" #pressed
+fg[INSENSITIVE] = "#b6b6b6" #insensitive
+
+text[PRELIGHT] = "#f5f5f5" #prelight text on optionmenu menus #pressed 
+text[ACTIVE] = "#f5f5f5" #normal
+text[NORMAL] = "#f5f5f5" #normal
+text[SELECTED] = "#f5f5f5" #pressed
+text[INSENSITIVE] = "#b6b6b6" #insensitive
+
+}
