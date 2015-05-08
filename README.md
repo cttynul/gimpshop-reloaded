@@ -13,17 +13,17 @@ GIMPshop Reloaded has an interface similiar to Adobe's product, shortcuts, plugi
 ##### Linux
 
 `
-git clone git://github.com/zegt/gimpshop-reloaded ~/.gimpshop-temp
+$ git clone git://github.com/zegt/gimpshop-reloaded ~/.gimpshop-temp
 `
 
 `
-rm ~/.gimpshop-temp/gimprc
+$ rm ~/.gimpshop-temp/gimprc
 `
 
 Copy `~/.gimpshop-temp` content into `~/.gimp-2.8`
 
 `
-rmdir ~/.gimpshop-temp
+$ rmdir ~/.gimpshop-temp
 `
 
 ##### Windows
