@@ -7,6 +7,8 @@ Its primary purpose was to make users of Photoshop feel comfortable using GIMP (
 GIMPshop Reloaded is an original GIMPshop remake, made by someone who had been using Photoshop for seven years! 
 GIMPshop Reloaded has an interface similiar to Adobe's product, shortcuts, plugin and much more, everything you need to have a real Photoshop feel.
 
+Soon I will release a portable version of GIMPShop preconfigured :).
+
 ![gimpshoprld](http://i.imgur.com/9AeXXmd.png)
 
 ### How to install
@@ -27,7 +29,18 @@ $ rmdir ~/.gimpshop-temp
 `
 
 ##### Windows
-_coming soon..._
+1) Download using Download Zip
+2) Copy all files (not gimp-splash.png) and paste it in
+
+`
+C:/Users/(Your User Windows Name)/.gimp-2.8
+`
+
+3) Copy and paste gimp-spalsh.png into
+
+`
+C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
+`
 
 ##### Mac OS X
 _coming soon..._
