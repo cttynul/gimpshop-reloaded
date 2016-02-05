@@ -15,7 +15,7 @@ Soon I will release a portable version of GIMPShop preconfigured :).
 ##### Linux
 
 `
-$ git clone git://github.com/zegt/gimpshop-reloaded ~/.gimpshop-temp
+$ git clone git://github.com/cttynul/gimpshop-reloaded ~/.gimpshop-temp
 `
 
 `
