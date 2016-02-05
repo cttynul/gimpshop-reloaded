@@ -30,6 +30,7 @@ $ rmdir ~/.gimpshop-temp
 
 ##### Windows
 1) Download using Download Zip
+
 2) Copy all files (not gimp-splash.png) and paste it in
 
 `
