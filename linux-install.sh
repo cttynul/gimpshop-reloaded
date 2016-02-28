@@ -12,7 +12,7 @@ then
     	rm -f ~/.gimpshop-temp/gimprc
     	cp -r ~/.gimpshop-temp/. ~/.gimp-2.8
     	echo Removing temp files
-    	rmdir --ignore-fail-on-non-empty ~/.gimpshop-temp
+    	rm -r -f ~/.gimpshop-temp
     	echo Installation complete! You can now run GIMPshop Reloaded!
     	echo To display dark-theme Photoshop-like you have to select "New CS6 Themes..." under
     	echo Edit  Preferences  Themes
