@@ -14,7 +14,7 @@ then
     	echo Removing temp files
     	rm -r -f ~/.gimpshop-temp
     	echo Installation complete! You can now run GIMPshop Reloaded!
-    	echo To display dark-theme Photoshop-like you have to select "New CS6 Themes..." in
+    	echo To display dark-theme Photoshop-like you have to choose "New CS6 Themes..." in
     	echo Edit  Preferences  Themes
     	echo 
     	echo Enjoy - cttynul/zegt
