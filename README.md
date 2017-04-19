@@ -1,6 +1,6 @@
 GIMPshop Reloaded
 ======
-###Introduction
+### Introduction
 GIMPshop was a modification of the free and open source graphics program GNU Image Manipulation Program (GIMP), with the intent to replicate the feel of Adobe Photoshop. 
 Its primary purpose was to make users of Photoshop feel comfortable using GIMP (en.wikipedia.org)
 
