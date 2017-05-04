@@ -54,6 +54,10 @@ C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
 ##### Mac OS X
 _coming soon..._
 
+### Donate
+If you want to support my work or just offer me a coffee you can donate here
+[Imgur](http://i.imgur.com/x3Gdpcq.gif)
+
 ### Thanks to
 - [**epierce**](http://epierce.freeshell.org/gimp/gimp_ps.php) for Photoshop shortcut.
 - [**Mehdi Abdollahi**](#) for GIMP Theme.
