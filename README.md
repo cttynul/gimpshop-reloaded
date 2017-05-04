@@ -55,8 +55,9 @@ C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
 _coming soon..._
 
 ### Donate
-If you want to support my work or just offer me a coffee you can donate here
-[Imgur](http://i.imgur.com/x3Gdpcq.gif)
+If you want to support my work or just buy me a coffee you can donate here
+
+[![buymeacoffee](http://i.imgur.com/x3Gdpcq.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GF9ZWVUJSYABA)
 
 ### Thanks to
 - [**epierce**](http://epierce.freeshell.org/gimp/gimp_ps.php) for Photoshop shortcut.
