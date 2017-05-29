@@ -51,8 +51,8 @@ C:/Users/(Your User Windows Name)/.gimp-2.8
 C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
 `
 
-##### Mac OS X
-_coming soon..._
+##### MacOS
+[Follow this](https://github.com/cttynul/gimpshop-reloaded/issues/1#issuecomment-304475702) 
 
 ### Donate
 If you want to support my work or just buy me a coffee you can donate here
@@ -60,6 +60,7 @@ If you want to support my work or just buy me a coffee you can donate here
 [![buymeacoffee](http://i.imgur.com/x3Gdpcq.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GF9ZWVUJSYABA)
 
 ### Thanks to
+- [**rex4539**](https://github.com/rex4539) for MacOS How-To.
 - [**epierce**](http://epierce.freeshell.org/gimp/gimp_ps.php) for Photoshop shortcut.
 - [**Mehdi Abdollahi**](#) for GIMP Theme.
 - [**Riley Brandt**](http://www.rileybrandt.com/) for some interface fixes.
