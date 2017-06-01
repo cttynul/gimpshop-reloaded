@@ -1,5 +1,3 @@
-GIMPshop Reloaded
-======
 ![logo](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/logo.png)
 
 ### Introduction
@@ -11,7 +9,7 @@ GIMPshop Reloaded has an interface similiar to Adobe's product, shortcuts, plugi
 
 Soon I will release a portable version of GIMPShop preconfigured :).
 
-![gimpshoprld](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/iphone.png)
+![gimpshoprld](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/img-1.png)
 
 ### How to install
 ##### Linux
