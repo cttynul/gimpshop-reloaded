@@ -1,5 +1,7 @@
 GIMPshop Reloaded
 ======
+![logo](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/logo.png)
+
 ### Introduction
 GIMPshop was a modification of the free and open source graphics program GNU Image Manipulation Program (GIMP), with the intent to replicate the feel of Adobe Photoshop. 
 Its primary purpose was to make users of Photoshop feel comfortable using GIMP (en.wikipedia.org)
@@ -9,7 +11,7 @@ GIMPshop Reloaded has an interface similiar to Adobe's product, shortcuts, plugi
 
 Soon I will release a portable version of GIMPShop preconfigured :).
 
-![gimpshoprld](http://i.imgur.com/9AeXXmd.png)
+![gimpshoprld](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/iphone.png)
 
 ### How to install
 ##### Linux
