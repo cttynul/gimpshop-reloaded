@@ -1,6 +1,8 @@
-![logo](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/logo.png)
+![logo](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/gh-pages/img/logo.png) 
 
-### Introduction
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GF9ZWVUJSYABA)
+
+### Introduction 
 GIMPshop was a modification of the free and open source graphics program GNU Image Manipulation Program (GIMP), with the intent to replicate the feel of Adobe Photoshop. 
 Its primary purpose was to make users of Photoshop feel comfortable using GIMP (en.wikipedia.org)
 
@@ -53,11 +55,6 @@ C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
 
 ##### MacOS
 [Follow this](https://github.com/cttynul/gimpshop-reloaded/issues/1#issuecomment-304475702) 
-
-### Donate
-If you want to support my work or just buy me a coffee you can donate here
-
-[![buymeacoffee](http://i.imgur.com/x3Gdpcq.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GF9ZWVUJSYABA)
 
 ### Thanks to
 - [**rex4539**](https://github.com/rex4539) for MacOS How-To.
