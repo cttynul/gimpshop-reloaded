@@ -15,11 +15,7 @@ Soon I will release a portable version of GIMPShop preconfigured :).
 ### How to install
 ##### Linux
 ###### Auto Install
-Download and run bash script from releases:
-
-`
-https://github.com/cttynul/gimpshop-reloaded/releases
-`
+Download and run bash script from [**here**](https://raw.githubusercontent.com/cttynul/gimpshop-reloaded/master/linux-install.sh)
 
 ###### Manual Install
 
