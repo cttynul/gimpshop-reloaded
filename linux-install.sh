@@ -22,10 +22,10 @@ then
     else
     	echo Git is not installed
     	echo Install it using your package manager
-    	echo i.e. (buntu, debian-based) sudo apt-get install git
+    	echo i.e. "(buntu, debian-based) sudo apt-get install git"
     fi
 else
     echo GIMP is not installed
     echo Install it using your package manager
-    echo i.e. (buntu, debian-based) sudo apt-get install gimp
+    echo i.e. "(buntu, debian-based) sudo apt-get install gimp"
 fi
