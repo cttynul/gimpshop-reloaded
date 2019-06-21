@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="airbrush.svg"
+   height="14.999996"
+   id="svg7384"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   version="1.1"
+   width="17">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="0.8457888"
+     inkscape:cy="8.8514639"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#43333e"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="true"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="715"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:zoom="11.313708"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       snapvisiblegridlinesonly="true"
+       spacingx="1"
+       spacingy="1"
+       type="xygrid"
+       visible="true"
+       originx="-7.4266799"
+       originy="-6.8059195" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tools"
+     style="display:inline"
+     transform="translate(-48.42688,-171.19408)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 64.697478,171.25856 c 0,0 -4.548674,1.97405 -6.528424,3.40366 l -2.622772,1.89397 -1.218947,1.87928 c -0.465602,0.15541 -0.554896,0.9578 -0.554896,1.1889 0,0.29193 0.250281,0.53371 0.554305,0.53371 0.240692,0 1.02786,-0.0458 1.162521,-0.41782 l 1.890457,0.17471 0.507163,-0.35425 0.460809,0.53225 1.239702,-0.92571 -0.451322,-0.52333 1.051034,-0.68485 c 2.068272,-1.34769 5.116171,-6.02116 5.116171,-6.02116 0.34917,-0.39107 -0.101405,-0.9311 -0.605801,-0.67936 z"
+       id="path2948"
+       sodipodi:nodetypes="csccssccccccscc"
+       style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.52128434" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 63.995604,179.2458 c 0,0 -0.372113,0.86854 -1.3698,0.86854 -0.477727,0 -0.913933,0.26205 -1.102521,0.57902 -0.188587,0.31697 -0.222956,0.60939 -0.267277,0.86854 -0.04433,0.25914 -0.10023,0.49135 -0.13364,0.54685 -0.03341,0.0555 0.06963,0.0132 -0.100229,0 -0.01749,-9.5e-4 -0.161992,-0.0851 -0.267278,-0.28951 -0.05265,-0.10221 -0.08435,-0.22218 -0.100229,-0.28951 0.02385,-0.0646 0.06316,-0.13313 0.06682,-0.19301 0.0088,-0.14472 -0.02888,-0.25751 -0.06682,-0.35385 -0.07588,-0.19268 -0.195435,-0.32494 -0.300687,-0.45035 -0.210505,-0.25082 -0.434327,-0.45035 -0.434327,-0.45035 l -0.701604,0.77203 c 0,0 0.166853,0.16222 0.300687,0.32168 0.0592,0.0705 0.121211,0.13765 0.133639,0.16084 0.0016,0.003 -4.67e-4,0.031 0,0.0322 0.0027,0.044 -0.06794,0.12878 -0.06682,0.16084 0.0031,0.0872 0.01481,0.14634 0.03341,0.22517 0.03718,0.1577 0.07427,0.33454 0.167049,0.5147 0.185565,0.3603 0.519056,0.82062 1.135931,0.86853 0.464502,0.0361 0.947607,-0.20178 1.13593,-0.51468 0.188325,-0.3129 0.189963,-0.61183 0.233869,-0.86855 0.04391,-0.25671 0.121775,-0.47076 0.167048,-0.54685 0.04528,-0.0761 -0.01384,-0.0643 0.167049,-0.0643 1.636818,0 2.338681,-1.44755 2.338681,-1.44755 z"
+       id="path4595"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.52128434px;marker:none;enable-background:accumulate" />
+    <rect
+       height="1.0293771"
+       id="rect3269"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="52.703327"
+       y="180.01782" />
+    <rect
+       height="1.0293771"
+       id="rect3271"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="51.634216"
+       y="181.04721" />
+    <rect
+       height="1.0293771"
+       id="rect3273"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="52.703327"
+       y="182.0766" />
+    <rect
+       height="1.0293771"
+       id="rect3275"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="51.634216"
+       y="183.10596" />
+    <rect
+       height="1.0293771"
+       id="rect3277"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.28395063;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="50.565102"
+       y="182.0766" />
+    <rect
+       height="1.0293771"
+       id="rect4084"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.23868312;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="49.495991"
+       y="183.10596" />
+    <rect
+       height="1.0293771"
+       id="rect4086"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="48.42688"
+       y="182.0766" />
+    <rect
+       height="1.0293771"
+       id="rect4088"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="49.495991"
+       y="181.04721" />
+    <rect
+       height="1.0293771"
+       id="rect4090"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="50.565102"
+       y="184.13535" />
+    <rect
+       height="1.0293771"
+       id="rect4092"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="48.42688"
+       y="184.13535" />
+    <rect
+       height="1.0293771"
+       id="rect4094"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="49.495991"
+       y="185.1647" />
+    <rect
+       height="1.0293771"
+       id="rect4096"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52128434;marker:none;enable-background:new"
+       width="1.0691116"
+       x="51.634216"
+       y="185.1647" />
+  </g>
+</svg>

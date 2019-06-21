@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.51548mm"
+   height="4.5154901mm"
+   viewBox="0 0 4.51548 4.5154901"
+   version="1.1"
+   id="svg1519"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="gimp-invert.svg">
+  <defs
+     id="defs1513" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#676767"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="0.095129915"
+     inkscape:cy="7.1473564"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <metadata
+     id="metadata1516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-203.31906,-201.76029)">
+    <g
+       id="g2087">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2083"
+         d="m 207.70432,201.91636 c -0.0862,-0.0937 -0.20411,-0.15607 -0.3421,-0.15607 h -3.57084 c -0.26175,0 -0.47232,0.21057 -0.47232,0.47232 v 3.57033 c 0,0.13799 0.0623,0.25639 0.15606,0.34261 z"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.34799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:16.85669327;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect2075"
+         d="m 207.70432,201.91636 -4.2292,4.22919 c 0.0841,0.0773 0.1925,0.13023 0.31626,0.13023 h 3.57084 c 0.26175,0 0.47232,-0.21109 0.47232,-0.47284 v -3.57033 c 0,-0.12375 -0.0529,-0.23219 -0.13022,-0.31625 z"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.34799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:16.85669327;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+  </g>
+</svg>

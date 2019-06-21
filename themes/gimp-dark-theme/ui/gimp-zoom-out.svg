@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="gimp-zoom-out.svg"
+   height="15.992886"
+   id="svg7384"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   version="1.1"
+   width="16.009714">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="0.0644547"
+     inkscape:cy="7.0545616"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#4b4949"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="false"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="715"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:zoom="32">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       snapvisiblegridlinesonly="true"
+       spacingx="1"
+       spacingy="1"
+       type="xygrid"
+       visible="true"
+       originx="-424.80169"
+       originy="-943.03888" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tools"
+     style="display:inline"
+     transform="translate(-485.80189,746.03172)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.88684881;marker:none;enable-background:new"
+       d="M 6.2871094,0 C 2.8315394,0 0,2.8276369 0,6.2792969 c 0,3.45163 2.8315394,6.2812501 6.2871094,6.2812501 1.3167797,0 2.5412833,-0.413909 3.5546875,-1.113281 l 4.2089841,4.208984 a 1.1471379,1.147138 0 1 0 1.603516,-1.640625 L 11.464844,9.8261719 C 12.163081,8.8148109 12.574219,7.5925864 12.574219,6.2792969 12.574219,2.8276369 9.7426794,0 6.2871094,0 Z m 0,2.2910156 c 2.22171,0 3.9921876,1.7690813 3.9921876,3.9882813 0,2.21917 -1.7704776,3.9882811 -3.9921876,3.9882811 -2.2217,0 -3.9921875,-1.7691111 -3.9921875,-3.9882811 0,-2.2192 1.7704875,-3.9882813 3.9921875,-3.9882813 z"
+       transform="translate(485.80189,-746.03172)"
+       id="path74836"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect815"
+       width="5.0625"
+       height="1.5625"
+       x="489.52063"
+       y="-740.66382" />
+  </g>
+</svg>
