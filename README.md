@@ -57,7 +57,8 @@ C:/Users/(Your User Windows Name)/.gimp-2.8/splashes
 ### Thanks to
 - [**rex4539**](https://github.com/rex4539) for MacOS How-To.
 - [**epierce**](http://epierce.freeshell.org/gimp/gimp_ps.php) for Photoshop shortcut.
-- [**Mehdi Abdollahi**](#) for GIMP Theme.
+- [**AbdullahRagb**](https://github.com/AbdullahRagb/) for GIMP Theme (gimp-dark-theme)
+- [**Mehdi Abdollahi**](#) for GIMP Theme (NEW CS6 II theme for gimp).
 - [**Riley Brandt**](http://www.rileybrandt.com/) for some interface fixes.
 - [**slybug**](http://slybug.deviantart.com) for layer via copy/cut plugin.
 
