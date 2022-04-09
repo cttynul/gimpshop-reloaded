@@ -20,7 +20,7 @@ Soon I will release a portable version of GIMPShop preconfigured :).
 ###### Manual Install
 
 `
-$ git clone git://github.com/cttynul/gimpshop-reloaded ~/.gimpshop-temp
+$ git clone https://github.com/cttynul/gimpshop-reloaded.git ~/.gimpshop-temp
 `
 
 `
