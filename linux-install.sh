@@ -8,7 +8,7 @@ then
 	then
     	echo Git found!
     	echo Installing GIMPshop Reloaded!
-    	git clone git://github.com/cttynul/gimpshop-reloaded ~/.gimpshop-temp 
+    	git clone https://github.com/cttynul/gimpshop-reloaded.git ~/.gimpshop-temp 
     	rm -f ~/.gimpshop-temp/gimprc
     	cp -r ~/.gimpshop-temp/. ~/.gimp-2.8
     	echo Removing temp files
